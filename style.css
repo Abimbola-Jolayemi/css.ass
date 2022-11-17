@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+.likes {
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     border: 1px dashed blue;
+     border-radius: 10px;
+     padding: 10px 20px;
+     color: black;
+}
+ 
+#lists {
+     color: royalblue;
+     border: 1px dashed greenyellow;
+}
+
+ .list-likes {
+    color: darkblue;
+ }
+
+ #list-dislikes {
+    color: darkblue;
+ }
+
+ #dislikes {
+    align-items: center;
+     display: flex;
+     justify-content: center;
+     border: 1px dashed blue;
+     border-radius: 10px;
+     padding: 10px 20px;
+     color: black;
+}
+ 
